@@ -1,0 +1,1 @@
+<!-- untuk memberi jarak pada sebuah code kita dapat menggunakan .. dan kemudian diberi koonten yang ingin di beri jarak contoh $nama_depan, .""., $nama_belakang-->
