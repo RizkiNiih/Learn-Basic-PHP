@@ -30,7 +30,7 @@
     <title>POST</title>
 </head>
 <body>
-    <form action="index1.php9 " method="post">
+    <form action="index1.php " method="post">
         Masukkan nama :
         <input type="text" name="nama">
         <br>

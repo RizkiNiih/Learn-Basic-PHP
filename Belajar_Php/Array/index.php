@@ -29,7 +29,7 @@ $angka = [3,2,15,20,11,77,89,8];
 </head>
 <body>
 
-<?php for( $i = 0; $i < count ($angka); $i++ ) { ?>
+<?php for( $i = 0; $i < count($angka); $i++ ) { ?>
     <div><?= $angka [$i]; ?></div>
 <?php } ?>
 </body>
