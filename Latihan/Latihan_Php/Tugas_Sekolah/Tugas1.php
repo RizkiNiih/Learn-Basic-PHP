@@ -11,11 +11,21 @@
 // echo "Keliling Segitiga: " . round($keliling, 2) . "<br>";
 
 
-$sisi = 4;
+// $sisi = 4;
 
-$luas = $sisi * $sisi;
-$keliling = 4 * $sisi;
+// $luas = $sisi * $sisi;
+// $keliling = 4 * $sisi;
 
-echo "Luas Persegi: $luas <br>";
-echo "Keliling Persegi: " . round($keliling, 2) . "<br>";
+// echo "Luas Persegi: $luas <br>";
+// echo "Keliling Persegi: " . round($keliling, 2) . "<br>";
+
+
+$P = 22 / 7;
+$r = 28;
+
+$luas = $P * $r;
+$keliling = 2 * $P * $r;
+
+echo "Luas Lingkaran: $luas <br>";
+echo "Keliling Lingkaran: " . round($keliling, 2) . "<br>";
 ?>
